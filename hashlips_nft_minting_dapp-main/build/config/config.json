@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xDA1EdC9E1D1e90791b407134737BC288B064446A",
+  "SCAN_LINK": "https://ftmscan.com/address/0xda1edc9e1d1e90791b407134737bc288b064446a",
+  "NETWORK": {
+    "NAME": "Fantom Opera",
+    "SYMBOL": "FTM",
+    "ID": 250
+  },
+  "NFT_NAME": "Fantom Guitarz",
+  "SYMBOL": "FGZ",
+  "MAX_SUPPLY": 100,
+  "WEI_COST": 75000000000000000,
+  "DISPLAY_COST": 15,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "paintswap",
+  "MARKETPLACE_LINK": "https://paintswap.finance/",
+  "SHOW_BACKGROUND": true
+}
